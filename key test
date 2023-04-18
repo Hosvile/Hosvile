@@ -1,1 +1,1 @@
-return {key = [[setkey abc]]};
+return {key = [[a]]};
