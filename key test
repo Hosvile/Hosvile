@@ -1,1 +1,1 @@
-return {key = [[c]]};
+return {key = [[['setkey', 'e']]]};
